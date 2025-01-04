@@ -107,3 +107,18 @@ h2 {
   font-size: 1.2rem;
   text-align: center;
 }
+
+@media screen and (min-width: 36em) {
+  body {
+    font-size: 1rem;
+  }
+
+  .input-container {
+    flex-direction: row;
+    width: unset;
+  }
+
+  .number-input {
+    width: unset;
+  }
+}
