@@ -73,3 +73,16 @@ h2 {
   margin-inline: auto;
   width: clamp(320px, 50vw, 460px);
 }
+
+#result {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  text-align: center;
+  min-height: 80px;
+  margin-block-start: 20px;
+  padding: 15px;
+  border: 2px solid var(--orange);
+  border-radius: 2px;
+}
