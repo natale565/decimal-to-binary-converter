@@ -13,3 +13,14 @@ This project is a web-based application that converts a decimal number into its 
 - Real-Time Interaction: Users can input numbers and view the animated conversion process.
 
 - Input Validation: Ensures only non-negative integers are accepted.
+
+# Usage
+
+1. Input a Decimal Number: Enter a non-negative decimal number into the input field.
+
+2. Convert: Click the "Convert" button or press "Enter" to initiate the conversion.
+
+3. View Animation: If the entered number is 5, an animation of the recursive conversion process will play. For other numbers, the binary result is displayed directly.
+
+# Files
+
