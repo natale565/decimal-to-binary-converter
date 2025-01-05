@@ -29,3 +29,22 @@ This project is a web-based application that converts a decimal number into its 
 - styles.css: The CSS file for styling the application.
 
 - script.js: The JavaScript file containing the logic for the conversion and animation.
+
+# JavaScript Overview
+
+- decimalToBinary(input): A recursive function that converts a decimal number to its binary equivalent.
+
+- createAnimationData(input): Generates the data required for the animation, including the steps of the recursive process.
+
+- showAnimation(steps, binaryResult): Displays the animation of the conversion process using the generated steps.
+
+- checkUserInput(): Validates user input and initiates the conversion process.
+
+
+# Contact
+
+For questions regarding this application, please contact me!:
+<br>
+<br>
+- Chris: https://github.com/natale565
+- Email: christopherRnatale@gmail.com
