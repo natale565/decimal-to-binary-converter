@@ -24,3 +24,8 @@ This project is a web-based application that converts a decimal number into its 
 
 # Files
 
+- index.html: The main HTML file containing the structure of the webpage.
+
+- styles.css: The CSS file for styling the application.
+
+- script.js: The JavaScript file containing the logic for the conversion and animation.
